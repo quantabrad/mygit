@@ -1,3 +1,6 @@
 void
 
-int main()
+void main(){
+
+}
+
